@@ -16,5 +16,5 @@ while(slaying) {
   } else {
     console.log("You missed! Big mistake.");
   }
-  slaying = false
+  slaying = false;
 }
